@@ -1,6 +1,6 @@
 [
     {
-		"name": "Nod",
+		"name": "Adelle Corp",
 		"leaderName": "Kane",
 		"adjective": ["People of Nod"],
 		"preferredVictoryType": "Domination",
@@ -23,7 +23,7 @@
 	},
 
 	{
-		"name": "Black Hand",
+		"name": "The New Movement",
 		"leaderName": "Anton Slavik",
 		"adjective": ["People of Nod"],
 		"preferredVictoryType": "Domination",
