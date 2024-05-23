@@ -1,8 +1,8 @@
 [
     {
 		"name": "Adelle Corp",
-		"leaderName": "Kane",
-		"adjective": ["People of Nod"],
+		"leaderName": "Adelle Meitner",
+		"adjective": ["The Corporation"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Sample text.",
@@ -14,18 +14,17 @@
 		"neutralHello": "Hello.",
 		"hateHello": "So what now?",
 		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
-		"outerColor": [0,0,0],
-		"innerColor": [142,22,0],
-		"uniqueName": "Word of Nod",
-		"uniques": ["+30% Strength when fighting City-State units and cities", "[+2] Movement <for [Armored] units>"],
-		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
-"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+		"outerColor": [128,0,128],
+		"innerColor": [255,255,255],
+		"uniqueName": "The Corp's Fist",
+		"uniques": ["+30% Strength when fighting City-State units and cities", "[+1] Movement <for [Infantry] units>"],
+		"cities": ["Settlement"]
 	},
 
 	{
 		"name": "The New Movement",
 		"leaderName": "Anton Slavik",
-		"adjective": ["People of Nod"],
+		"adjective": ["People of Freedom"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Sample text.",
