@@ -1,8 +1,12 @@
 [
     {
-        "name": "discover cultural artifacts",
-        "notification": "We have discovered cultural artifacts in the ruins! (+20 culture)",
-        "uniques": ["Gain [20] [Culture]"],
-        "color": "#cf8ff7"
+        "name": "squatters willing to work for you",
+        "notification": "A [Rifleman] has joined us!",
+        "uniques": ["Free [Rifleman] found in the ruins"]
+    },
+    {
+        "name": "squatters wishing to settle under your rule",
+        "notification": "A [Settler] has joined us!",
+        "uniques": ["Free [Settler] found in the ruins"]
     }
 ]
